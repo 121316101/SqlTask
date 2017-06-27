@@ -1,0 +1,17 @@
+D:\Projects\SellingCars\SellingCars\bin\Debug\SellingCars.exe.config
+D:\Projects\SellingCars\SellingCars\bin\Debug\SellingCars.exe
+D:\Projects\SellingCars\SellingCars\bin\Debug\SellingCars.pdb
+D:\Projects\SellingCars\SellingCars\bin\Debug\EntityFramework.dll
+D:\Projects\SellingCars\SellingCars\bin\Debug\EntityFramework.xml
+D:\Projects\SellingCars\SellingCars\obj\Debug\SellingCars.csprojResolveAssemblyReference.cache
+D:\Projects\SellingCars\SellingCars\obj\Debug\MainWindow.g.cs
+D:\Projects\SellingCars\SellingCars\obj\Debug\App.g.cs
+D:\Projects\SellingCars\SellingCars\obj\Debug\SellingCars_Content.g.cs
+D:\Projects\SellingCars\SellingCars\obj\Debug\SellingCars_MarkupCompile.cache
+D:\Projects\SellingCars\SellingCars\obj\Debug\SellingCars_MarkupCompile.lref
+D:\Projects\SellingCars\SellingCars\obj\Debug\MainWindow.baml
+D:\Projects\SellingCars\SellingCars\obj\Debug\SellingCars.g.resources
+D:\Projects\SellingCars\SellingCars\obj\Debug\SellingCars.Properties.Resources.resources
+D:\Projects\SellingCars\SellingCars\obj\Debug\SellingCars.csproj.GenerateResource.Cache
+D:\Projects\SellingCars\SellingCars\obj\Debug\SellingCars.exe
+D:\Projects\SellingCars\SellingCars\obj\Debug\SellingCars.pdb
